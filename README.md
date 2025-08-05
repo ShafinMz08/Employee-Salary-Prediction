@@ -17,7 +17,7 @@ Built as part of my **Capstone Project**, this application showcases the integra
 <img src="https://media.giphy.com/media/bolghismAzrpisoqut/giphy.gif" width="700"/>
 
 🎯 Try it out: _[ http://localhost:8501]_  
-📦 Download the model: _[optional GitHub release link]_
+
 
 ---
 
