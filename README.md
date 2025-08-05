@@ -27,7 +27,7 @@ Built as part of my **Capstone Project**, this application showcases the integra
 ![Prediction UI](https://github.com/ShafinMz08/Employee-Salary-Prediction/blob/main/images/Prediction.png)
 
 ### 📊 Visualized Input
-![Bar Chart](https://your-screenshot-link.com/screenshot2.png)
+![Bar Chart](https://github.com/ShafinMz08/Employee-Salary-Prediction/blob/main/images/Graph.png)
 
 > _(Replace above URLs with your own screenshots hosted on Imgur, GitHub, or Streamlit assets)_
 
